@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Master">
+
+    <test name="Email Mass Test">
+        <classes>
+            <class name="com.allure.AppTest"></class>
+        </classes>
+    </test>
+
+
+</suite>
